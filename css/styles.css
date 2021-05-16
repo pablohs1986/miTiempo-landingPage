@@ -645,7 +645,6 @@ header.masthead {
 	background-color: #ffffff;
 	padding-top: 8rem;
 	padding-bottom: 8rem;
-	height: 100vh;
 }
 header.masthead h1 {
 	font-size: 2rem;
@@ -683,13 +682,14 @@ header.masthead h1 {
 @media (min-width: 768px) {
 	.showcase .showcase-text {
 		padding: 7rem;
+		padding-left: 20rem;
 	}
 	.showcase .showcase-img {
 		min-height: 45rem;
 		max-height: 45rem;
 		background-size: 20rem;
 		background-repeat: no-repeat;
-		background-position-x: 17rem;
+		background-position-x: 12rem;
 	}
 }
 
