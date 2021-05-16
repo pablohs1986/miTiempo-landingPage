@@ -651,6 +651,10 @@ header.masthead h1 {
 	font-size: 2rem;
 	color: black;
 }
+.chevron {
+	font-size: 2rem;
+	color: black;
+}
 
 .confirmationMessage {
 	font-size: 2rem;
