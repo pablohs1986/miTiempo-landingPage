@@ -652,6 +652,11 @@ header.masthead h1 {
 	color: black;
 }
 
+.confirmationMessage {
+	font-size: 2rem;
+	color: black;
+}
+
 .img-fluid {
 	width: 20rem;
 }
