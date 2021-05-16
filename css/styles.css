@@ -639,6 +639,7 @@ header.masthead {
 	background-color: #ffffff;
 	padding-top: 8rem;
 	padding-bottom: 8rem;
+	height: 100vh;
 }
 header.masthead h1 {
 	font-size: 2rem;
